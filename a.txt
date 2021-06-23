@@ -1,3 +1,5 @@
 this is file named a, and this is created by Amit Maindola.`
 Adding for commit 3.
 adding for commit 5.
+adding in new branch.
+adding in parallel branch.
